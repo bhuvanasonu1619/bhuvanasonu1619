@@ -8,7 +8,6 @@
 🌱 Currently learning Python, Java, SQL, and Artificial Intelligence.
 
 🚀 **Projects**
-- 🩸 Smart Blood Bank Management System
 - 🤖 Loan Prediction System using Machine Learning
 - ✈️ AI Travel Planner
 
